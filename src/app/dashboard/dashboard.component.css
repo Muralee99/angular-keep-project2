@@ -1,0 +1,18 @@
+.mat-expansion-panel{
+}
+
+.error-message{
+}
+
+.keep-component-note-taker-panel{
+	width : 50vw;
+	margin : auto;
+}
+.keep-component-notes-taker-wrapper{
+	display: flex;
+	flex-direction: column;
+}
+.keep-component-button{
+	display : flex;
+	justify-content: flex-end;
+}
